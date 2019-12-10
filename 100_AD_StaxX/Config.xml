@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <item date="January 2019">
+        <nombre>Franciso</nombre>
+        <ciudad>Madrid</ciudad>
+        <salario>2500€</salario>
+    </item>
+    <item date="February 2008">
+        <nombre>Adrian</nombre>
+        <ciudad>Córdoba</ciudad>
+        <salario>3150€</salario>
+    </item>
+    <item date="July 1999">
+        <nombre>María</nombre>
+        <ciudad>Cádiz</ciudad>
+        <salario>1500€</salario>   
+    </item>
+</config>
